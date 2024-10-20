@@ -29,7 +29,5 @@ The decoded text will be displayed on the screen.
 **Technologies Used**
 
 Java
-
 JavaSwing
-
 mySql
