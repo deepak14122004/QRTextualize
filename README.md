@@ -28,7 +28,8 @@ The decoded text will be displayed on the screen.
 
 **Technologies Used**
 
-Python
-Flask (for web framework)
-OpenCV (for QR code scanning)
-qrcode (for QR code generation)
+Java
+
+JavaSwing
+
+mySql
